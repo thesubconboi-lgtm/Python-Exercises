@@ -1,0 +1,5 @@
+Arroz, 10
+Feijão, 5
+Macarrão, 0
+Óleo, 2
+Scat, 5
