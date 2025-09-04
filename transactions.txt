@@ -1,0 +1,5 @@
+100, deposito
+50, saque
+200, deposito
+50, saque
+30, saque
